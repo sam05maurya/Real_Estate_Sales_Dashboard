@@ -75,7 +75,8 @@ Dataset features include:
 ---
 
 ## Dashboard Preview
-Add a screenshot of your Power BI dashboard here.
+<img width="1267" height="714" alt="dashboard" src="https://github.com/user-attachments/assets/29ef5692-a587-42f3-9373-38e704486d92" />
+
 
 ---
 
